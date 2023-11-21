@@ -13,3 +13,9 @@ To run DStpW_JS locally, you need to have a web browser that supports JavaScript
 ## Usage
 
 To start the stopwatch, click the Start button. To stop the stopwatch, click the Stop button. To reset the stopwatch, click the Reset button.
+
+## Contact
+If you have any questions, suggestions, or feedback, feel free to contact me at:
+ - Email: omarmosharawi@gmail.com
+ - Instagram: @omarmosharawi
+ - Twitter: @omarmosharawi
