@@ -10,6 +10,9 @@ DStpW_JS is a dynamic stopwatch web application that allows users to measure tim
 
 To run DStpW_JS locally, you need to have a web browser that supports JavaScript. You can download the source code and open the index.html file in your browser.
 
+## Demo
+You can access the live demo of the web application here: [DStpW_JS](https://omarmosharawi.github.io/DStpW_JS/)
+
 ## Usage
 
 To start the stopwatch, click the Start button. To stop the stopwatch, click the Stop button. To reset the stopwatch, click the Reset button.
